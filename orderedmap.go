@@ -1,3 +1,6 @@
+// Copyright (c) 2018 Christopher E. Miller
+// MIT license, see LICENSE file.
+
 package orderedmap
 
 // KeyType is the map key type, can be generically overridden.
